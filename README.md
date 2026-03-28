@@ -52,8 +52,8 @@ npm run tauri build
 ## Contact
 
 - Maintainer: FocalSalt
-- Email: (add your email)
-- Repository: (add your repository URL)
+- Email: fs369741@gmail.com
+- Repository: https://github.com/focalsalt/Focal-MC-Launcher/
 
 ## License
 
